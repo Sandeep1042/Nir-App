@@ -1,0 +1,72 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+gitignore
+# IDE files and directories
+.idea/
+!.idea/misc.xml
+!.idea/vcs.xml
+!.idea/gradle.xml
+!.idea/libraries/
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Build directory
+build/
+
+# Local properties file (contains SDK path and other sensitive info)
+local.properties
+
+# Gradle files
+.gradle/
+captures/
+*.class
+
+# Keystore files (should be kept private)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Test results and reports
+/build/reports/
+/build/test-results/
+
+# Outputs of the build
+/build/outputs/
+/build/generated/
+
+# Google Services file (if you have different versions for different builds)
+# Usually, it's better to version this file if it's the same for all developers.
+# google-services.json
+
+# Proguard files
+proguard/
+- R8/ProGuard generated files
+proguard-rules-new.txt
+proguard-rules.txt
+mapping.txt
+seeds.txt
+usage.txt
+
+# Misc
+.DS_Store
+Thumbs.db
