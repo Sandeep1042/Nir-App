@@ -272,6 +272,8 @@ System calculates optimal delivery route visiting each customer once with minima
 * Admin panel
 * AI-based demand prediction
 * Ratings & reviews
+* Multiple products other then water can
+* scaner system to added your store on users phone
 
 ---
 
